@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Buscador Linio" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-02T13:51:37" hostname="ALVEAR" time="21.12">
+  <properties/>
+  <testcase name="Buscar producto en el buscador de Linio exitoso" classname="Buscador Linio" time="21.12"/>
+  <system-out><![CDATA[[{Productos=Apple Iphone 8 64 Gb Plateado Garantia 1}, {Productos=Nevera Whirlpool Top Mount No Frost 257}, {Productos=LAVADORA WHIRLPOOL DIGITAL TURBO POWER}, {Productos=Cargador Original 5w iPhone 4/5/6/7/8/x}, {Productos=Bicicleta Spinning Livorno - 60032 Rojo}]
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 17025
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 02, 2021 8:51:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
